@@ -68,6 +68,7 @@ def main(filename):
     first_line = lines[0].strip().split()
     m = int(first_line[0])
     op_count = int(first_line[1])
+    
 
     # TODO: Initialize table1, table2, and lookup_results
 
